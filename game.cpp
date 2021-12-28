@@ -1,4 +1,4 @@
-#include "ex7.h"
+#include "game.h"
 #include <iostream>
 #include <queue>
 #include "wx/wx.h"
